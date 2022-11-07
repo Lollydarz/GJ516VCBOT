@@ -1,6 +1,6 @@
 
  <h2 align="center">   
-    ──「 𝗚𝗝𝟱𝟭𝟲 𝗩𝗰 𝗣𝗹𝗮𝘆𝗲𝗿 」──  
+  
    </h2>  
  <p align="center">   
 <img src="https://te.legra.ph/file/cb2763a4fd9af49b26cb0.jpg">   
